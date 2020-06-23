@@ -1,6 +1,6 @@
-[image]: ./images/coco-examples.jpg "Images Captions"
+[image]: ./images/coco-examples.jpg "Images Captions Generator"
 
-# Images Captions
+# Images Captions Generator
 ![Images Captions][image]
 
 a Neural Network Architecture that automatically generates captions from images.
